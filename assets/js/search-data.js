@@ -524,7 +524,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/alimoonis/", "_blank");
+          window.open("https://www.linkedin.com/in/alimoonis", "_blank");
         },
       },{
       id: 'light-theme',
