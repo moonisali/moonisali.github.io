@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Parts of this website are still under construction** #PhD Candidate, Max Planck Institute for Informatics
+subtitle: Parts of this website are still under construction. #PhD Candidate, Max Planck Institute for Informatics
 
 profile:
   align: right
