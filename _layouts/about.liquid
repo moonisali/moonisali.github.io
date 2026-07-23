@@ -7,7 +7,10 @@ layout: default
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
-        <i class="fa-brands fa-canadian-maple-leaf" style="color:#000; font-size:0.6em; margin-left:0.3em; vertical-align:middle;"></i>
+        <svg viewBox="0 0 100 96" style="height:0.7em; width:auto; vertical-align:middle; margin-right:0.3em;" xmlns="http://www.w3.org/2000/svg">
+            <path fill="#000" d="M 88.04 37.64 C 87.28 35.29 63.94 42.82 58.23 38.67 C 52.52 34.53 52.47 10.00 50.00 10.00 C 47.53 10.00 47.48 34.53 41.77 38.67 C 36.06 42.82 12.72 35.29 11.96 37.64 C 11.19 39.99 34.51 47.62 36.69 54.33 C 38.86 61.03 24.49 80.91 26.49 82.36 C 28.49 83.81 42.95 64.00 50.00 64.00 C 57.05 64.00 71.51 83.81 73.51 82.36 C 75.51 80.91 61.14 61.03 63.31 54.33 C 65.49 47.62 88.81 39.99 88.04 37.64 Z
+                                 M 47.80 62.00 C 47.50 72.00 48.50 78.00 50.00 86.00 C 51.50 78.00 52.50 72.00 52.20 62.00 Z"/>
+        </svg>
       {% else %}
         {{ site.title }}
       {% endif %}
