@@ -2,7 +2,7 @@
 layout: default
 permalink: /musings/
 title: musings
-nav: true
+nav: false
 nav_order: 2
 pagination:
   enabled: true
