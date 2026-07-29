@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://moonisali.github.ioai-folio/sitemap.xml
+Sitemap: https://moonisali.github.io/sitemap.xml
